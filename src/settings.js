@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","Vach","Player","VatCan"],collisionMatrix:[[true],[false,false],[false,false,false,true],[false,false,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/_Game/Scenes/LoadingScene/LoadingScene.fire",orientation:"landscape",jsList:[]};
